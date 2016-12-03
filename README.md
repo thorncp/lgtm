@@ -7,3 +7,5 @@ imply
 ## Why?
 
 Random emoji are fun! :dash: :wedding: :information_desk_person:
+
+![placeholder](random-pr-emoji.gif)
