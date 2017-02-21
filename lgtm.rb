@@ -193,8 +193,6 @@ emoji = %w{
   office
   ok_hand
   ok_woman
-  older_man
-  older_woman
   open_hands
   ophiuchus
   palm_tree
@@ -202,7 +200,6 @@ emoji = %w{
   part_alternation_mark
   pencil
   penguin
-  pensive
   persevere
   person_with_blond_hair
   phone
