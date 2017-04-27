@@ -1,4 +1,5 @@
 emoji = %w{
+  +1
   airplane
   alien
   ambulance
@@ -204,9 +205,7 @@ emoji = %w{
   person_with_blond_hair
   phone
   pig
-  pill
   pisces
-  plus1
   police_car
   post_office
   postbox
@@ -242,7 +241,6 @@ emoji = %w{
   saxophone
   school
   school_satchel
-  scissors
   scorpius
   seat
   secret
@@ -322,7 +320,6 @@ emoji = %w{
   wave
   wedding
   whale
-  wheelchair
   white_square
   wind_chime
   wolf
