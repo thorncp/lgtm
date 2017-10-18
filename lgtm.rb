@@ -18,15 +18,12 @@ emoji = %w{
   basketball
   bath
   bear
-  bell
   bento
   bike
   bird
   birthday
-  black_square
   blue_car
   blue_heart
-  blush
   boar
   boat
   bomb
@@ -124,7 +121,6 @@ emoji = %w{
   guitar
   haircut
   hamburger
-  hammer
   hamster
   hand
   handbag
@@ -154,7 +150,6 @@ emoji = %w{
   lipstick
   lock
   loop
-  loudspeaker
   mag
   mahjong
   mailbox
@@ -201,12 +196,10 @@ emoji = %w{
   part_alternation_mark
   pencil
   penguin
-  persevere
   person_with_blond_hair
   phone
   pig
   pisces
-  police_car
   post_office
   postbox
   princess
@@ -318,7 +311,6 @@ emoji = %w{
   walking
   watermelon
   wave
-  wedding
   whale
   white_square
   wind_chime
