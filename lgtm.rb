@@ -10,9 +10,13 @@ emoji = %w{
   8ball
   a
   ab
+  abacus
   abc
   abcd
   accept
+  accordion
+  adhesive_bandage
+  adult
   aerial_tramway
   afghanistan
   airplane
@@ -24,6 +28,7 @@ emoji = %w{
   alien
   american_samoa
   amphora
+  anatomical_heart
   anchor
   andorra
   angel
@@ -40,7 +45,6 @@ emoji = %w{
   arrow_backward
   arrow_double_down
   arrow_double_up
-  arrow_down
   arrow_down_small
   arrow_forward
   arrow_heading_down
@@ -60,15 +64,20 @@ emoji = %w{
   art
   articulated_lorry
   artificial_satellite
+  artist
   aruba
+  ascension_island
   asterisk
   astonished
+  astronaut
   athletic_shoe
   atm
   atom_symbol
   australia
   austria
+  auto_rickshaw
   avocado
+  axe
   azerbaijan
   b
   baby
@@ -77,12 +86,17 @@ emoji = %w{
   baby_symbol
   back
   bacon
+  badger
   badminton
+  bagel
   baggage_claim
   baguette_bread
   bahamas
   bahrain
   balance_scale
+  bald_man
+  bald_woman
+  ballet_shoes
   balloon
   ballot_box
   ballot_box_with_check
@@ -90,13 +104,13 @@ emoji = %w{
   banana
   bangbang
   bangladesh
+  banjo
   bank
   bar_chart
   barbados
   barber
   baseball
-  basecamp
-  basecampy
+  basket
   basketball
   basketball_man
   basketball_woman
@@ -106,6 +120,8 @@ emoji = %w{
   battery
   beach_umbrella
   bear
+  bearded_person
+  beaver
   bed
   bee
   beer
@@ -114,18 +130,22 @@ emoji = %w{
   belarus
   belgium
   belize
+  bell_pepper
   bellhop_bell
   benin
   bento
   bermuda
+  beverage_box
   bhutan
   bicyclist
   bike
   biking_man
   biking_woman
-  biohazard
+  billed_cap
   bird
   birthday
+  bison
+  black_cat
   black_circle
   black_flag
   black_heart
@@ -136,43 +156,63 @@ emoji = %w{
   black_nib
   black_small_square
   black_square_button
-  blonde_man
+  blond_haired_man
+  blond_haired_person
+  blond_haired_woman
   blonde_woman
   blossom
   blowfish
   blue_book
   blue_car
   blue_heart
+  blue_square
+  blueberries
   boar
   boat
   bolivia
   bomb
+  bone
   book
   bookmark
   bookmark_tabs
   books
   boom
+  boomerang
   boot
   bosnia_herzegovina
   botswana
+  bouncing_ball_man
+  bouncing_ball_person
+  bouncing_ball_woman
   bouquet
+  bouvet_island
   bow
   bow_and_arrow
   bowing_man
   bowing_woman
+  bowl_with_spoon
   bowling
-  bowtie
   boxing_glove
   boy
+  brain
   brazil
   bread
+  breast_feeding
+  bricks
   bride_with_veil
   bridge_at_night
   briefcase
   british_indian_ocean_territory
   british_virgin_islands
+  broccoli
   broken_heart
+  broom
+  brown_circle
+  brown_heart
+  brown_square
   brunei
+  bubble_tea
+  bucket
   building_construction
   bulb
   bulgaria
@@ -186,10 +226,10 @@ emoji = %w{
   busstop
   bust_in_silhouette
   busts_in_silhouette
+  butter
   butterfly
   cactus
   cake
-  calendar
   call_me_hand
   calling
   cambodia
@@ -203,6 +243,7 @@ emoji = %w{
   cancer
   candle
   candy
+  canned_food
   canoe
   cape_verde
   capital_abcd
@@ -213,14 +254,18 @@ emoji = %w{
   card_index_dividers
   caribbean_netherlands
   carousel_horse
+  carpentry_saw
   carrot
+  cartwheeling
   cat
   cat2
   cayman_islands
   cd
   central_african_republic
+  ceuta_melilla
   chad
   chains
+  chair
   champagne
   chart
   chart_with_downwards_trend
@@ -228,12 +273,15 @@ emoji = %w{
   cheese
   cherries
   cherry_blossom
+  chess_pawn
   chestnut
   chicken
+  child
   children_crossing
   chile
   chipmunk
   chocolate_bar
+  chopsticks
   christmas_island
   christmas_tree
   church
@@ -247,8 +295,12 @@ emoji = %w{
   clap
   clapper
   classical_building
+  climbing
+  climbing_man
+  climbing_woman
   clinking_glasses
   clipboard
+  clipperton_island
   closed_book
   closed_lock_with_key
   closed_umbrella
@@ -256,12 +308,18 @@ emoji = %w{
   clown_face
   clubs
   cn
+  coat
+  cockroach
   cocktail
+  coconut
   cocos_islands
   coffee
+  coin
+  cold_face
   colombia
   comet
   comoros
+  compass
   computer
   computer_mouse
   confetti_ball
@@ -275,6 +333,7 @@ emoji = %w{
   construction_worker_woman
   control_knobs
   convenience_store
+  cook
   cook_islands
   cookie
   cool
@@ -284,6 +343,7 @@ emoji = %w{
   costa_rica
   cote_divoire
   couch_and_lamp
+  couplekiss
   cow
   cow2
   cowboy_hat_face
@@ -292,6 +352,7 @@ emoji = %w{
   credit_card
   crescent_moon
   cricket
+  cricket_game
   croatia
   crocodile
   croissant
@@ -302,13 +363,20 @@ emoji = %w{
   crystal_ball
   cuba
   cucumber
+  cup_with_straw
+  cupcake
   cupid
   curacao
+  curling_stone
+  curly_haired_man
+  curly_haired_woman
   curly_loop
   currency_exchange
   curry
+  cursing_face
   custard
   customs
+  cut_of_meat
   cyclone
   cyprus
   czech_republic
@@ -322,6 +390,9 @@ emoji = %w{
   dash
   date
   de
+  deaf_man
+  deaf_person
+  deaf_woman
   deciduous_tree
   deer
   denmark
@@ -333,7 +404,13 @@ emoji = %w{
   detective
   diamond_shape_with_a_dot_inside
   diamonds
+  diego_garcia
+  disguised_face
+  diving_mask
+  diya_lamp
   djibouti
+  dna
+  dodo
   dog
   dog2
   dollar
@@ -352,11 +429,13 @@ emoji = %w{
   droplet
   drum
   duck
+  dumpling
   dvd
   e-mail
   eagle
   ear
   ear_of_rice
+  ear_with_hearing_aid
   earth_africa
   earth_americas
   earth_asia
@@ -367,10 +446,16 @@ emoji = %w{
   eight
   eight_pointed_black_star
   eight_spoked_asterisk
+  eject_button
   el_salvador
   electric_plug
   elephant
+  elevator
+  elf
+  elf_man
+  elf_woman
   email
+  england
   envelope
   envelope_with_arrow
   equatorial_guinea
@@ -385,11 +470,18 @@ emoji = %w{
   european_union
   evergreen_tree
   exclamation
+  exploding_head
   eye
   eye_speech_bubble
   eyeglasses
   eyes
+  facepalm
   factory
+  factory_worker
+  fairy
+  fairy_man
+  fairy_woman
+  falafel
   falkland_islands
   fallen_leaf
   family
@@ -418,12 +510,14 @@ emoji = %w{
   family_woman_woman_girl
   family_woman_woman_girl_boy
   family_woman_woman_girl_girl
+  farmer
   faroe_islands
   fast_forward
   fax
-  feelsgood
+  feather
   feet
   female_detective
+  female_sign
   ferris_wheel
   ferry
   field_hockey
@@ -433,9 +527,11 @@ emoji = %w{
   film_projector
   film_strip
   finland
-  finnadie
   fire
   fire_engine
+  fire_extinguisher
+  firecracker
+  firefighter
   fireworks
   first_quarter_moon
   first_quarter_moon_with_face
@@ -445,16 +541,25 @@ emoji = %w{
   fist_raised
   five
   flags
+  flamingo
   flashlight
+  flat_shoe
+  flatbread
   fleur_de_lis
   flight_arrival
   flight_departure
   flipper
   floppy_disk
   flower_playing_cards
+  fly
+  flying_disc
+  flying_saucer
+  fondue
+  foot
   football
   footprints
   fork_and_knife
+  fortune_cookie
   fountain
   fountain_pen
   four
@@ -470,34 +575,35 @@ emoji = %w{
   fried_shrimp
   fries
   frog
-  frowning
-  frowning_face
-  frowning_man
-  frowning_woman
-  fu
   fuelpump
   full_moon
   full_moon_with_face
-  funeral_urn
   gabon
   gambia
   game_die
+  garlic
   gb
   gear
   gem
   gemini
+  genie
+  genie_man
+  genie_woman
   georgia
   ghana
   ghost
   gibraltar
   gift
   gift_heart
+  giraffe
   girl
   globe_with_meridians
+  gloves
   goal_net
   goat
-  goberserk
+  goggles
   golf
+  golfing
   golfing_man
   golfing_woman
   gorilla
@@ -505,8 +611,10 @@ emoji = %w{
   greece
   green_apple
   green_book
+  green_circle
   green_heart
   green_salad
+  green_square
   greenland
   grenada
   grey_exclamation
@@ -514,10 +622,12 @@ emoji = %w{
   grinning
   guadeloupe
   guam
+  guard
   guardsman
   guardswoman
   guatemala
   guernsey
+  guide_dog
   guinea
   guinea_bissau
   guitar
@@ -531,13 +641,18 @@ emoji = %w{
   hammer_and_wrench
   hamster
   hand
+  hand_over_mouth
   handbag
+  handball_person
   handshake
   hankey
   hash
   hatched_chick
   hatching_chick
   headphones
+  headstone
+  health_worker
+  heard_mcdonald_islands
   heart
   heart_decoration
   heart_eyes
@@ -551,20 +666,26 @@ emoji = %w{
   heavy_exclamation_mark
   heavy_heart_exclamation
   heavy_plus_sign
+  hedgehog
   helicopter
   herb
   hibiscus
   high_brightness
   high_heel
+  hiking_boot
+  hindu_temple
+  hippopotamus
   hocho
   hole
   honduras
   honey_pot
   honeybee
   hong_kong
+  hook
   horse
   horse_racing
   hospital
+  hot_face
   hot_pepper
   hotdog
   hotel
@@ -576,8 +697,9 @@ emoji = %w{
   houses
   hugs
   hungary
-  hurtrealbad
+  hut
   ice_cream
+  ice_cube
   ice_hockey
   ice_skate
   icecream
@@ -589,6 +711,7 @@ emoji = %w{
   incoming_envelope
   india
   indonesia
+  infinity
   information_desk_person
   information_source
   innocent
@@ -608,12 +731,16 @@ emoji = %w{
   japanese_ogre
   jeans
   jersey
+  jigsaw
   jordan
   joy
   joy_cat
   joystick
   jp
+  judge
+  juggling_person
   kaaba
+  kangaroo
   kazakhstan
   kenya
   key
@@ -622,15 +749,24 @@ emoji = %w{
   kick_scooter
   kimono
   kiribati
+  kite
   kiwi_fruit
+  kneeling_man
+  kneeling_person
+  kneeling_woman
   knife
+  knot
   koala
   koko
   kosovo
   kr
   kuwait
   kyrgyzstan
+  lab_coat
   label
+  lacrosse
+  ladder
+  lady_beetle
   lantern
   laos
   large_blue_circle
@@ -641,12 +777,15 @@ emoji = %w{
   latin_cross
   latvia
   laughing
+  leafy_green
   leaves
   lebanon
   ledger
   left_luggage
   left_right_arrow
+  left_speech_bubble
   leftwards_arrow_with_hook
+  leg
   lemon
   leo
   leopard
@@ -663,8 +802,18 @@ emoji = %w{
   lipstick
   lithuania
   lizard
+  llama
+  lobster
   lollipop
+  long_drum
+  lotion_bottle
+  lotus_position
+  lotus_position_man
+  lotus_position_woman
+  love_you_gesture
   low_brightness
+  luggage
+  lungs
   luxembourg
   lying_face
   m
@@ -673,6 +822,11 @@ emoji = %w{
   madagascar
   mag
   mag_right
+  mage
+  mage_man
+  mage_woman
+  magic_wand
+  magnet
   mahjong
   mailbox
   mailbox_closed
@@ -682,8 +836,10 @@ emoji = %w{
   malaysia
   maldives
   male_detective
+  male_sign
   mali
   malta
+  mammoth
   man
   man_artist
   man_astronaut
@@ -693,8 +849,11 @@ emoji = %w{
   man_facepalming
   man_factory_worker
   man_farmer
+  man_feeding_baby
   man_firefighter
   man_health_worker
+  man_in_manual_wheelchair
+  man_in_motorized_wheelchair
   man_in_tuxedo
   man_judge
   man_juggling
@@ -710,36 +869,51 @@ emoji = %w{
   man_teacher
   man_technologist
   man_with_gua_pi_mao
+  man_with_probing_cane
   man_with_turban
+  man_with_veil
   mandarin
+  mango
   mans_shoe
   mantelpiece_clock
+  manual_wheelchair
   maple_leaf
   marshall_islands
   martial_arts_uniform
   martinique
   mask
+  mate
   mauritania
   mauritius
   mayotte
   meat_on_bone
+  mechanic
+  mechanical_arm
+  mechanical_leg
   medal_military
   medal_sports
+  medical_symbol
   mega
   melon
   memo
   menorah
   mens
+  mermaid
+  merman
+  merperson
   metal
   metro
   mexico
+  microbe
   micronesia
   microphone
   microscope
+  military_helmet
   milk_glass
   milky_way
   minibus
   minidisc
+  mirror
   mobile_phone_off
   moldova
   monaco
@@ -749,16 +923,20 @@ emoji = %w{
   mongolia
   monkey
   monkey_face
+  monocle_face
   monorail
   montenegro
   montserrat
   moon
+  moon_cake
   morocco
   mortar_board
   mosque
+  mosquito
   motor_boat
   motor_scooter
   motorcycle
+  motorized_wheelchair
   motorway
   mount_fuji
   mountain
@@ -770,6 +948,7 @@ emoji = %w{
   mountain_snow
   mouse
   mouse2
+  mouse_trap
   movie_camera
   moyai
   mozambique
@@ -779,6 +958,7 @@ emoji = %w{
   musical_keyboard
   musical_note
   musical_score
+  mx_claus
   myanmar
   nail_care
   name_badge
@@ -786,9 +966,11 @@ emoji = %w{
   national_park
   nauru
   nauseated_face
+  nazar_amulet
   necktie
   nepal
   nerd_face
+  nesting_dolls
   netherlands
   neutral_face
   new
@@ -807,6 +989,7 @@ emoji = %w{
   nigeria
   night_with_stars
   nine
+  ninja
   niue
   norfolk_island
   north_korea
@@ -820,16 +1003,19 @@ emoji = %w{
   o
   o2
   ocean
-  octocat
   octopus
   oden
   office
+  office_worker
   oil_drum
   ok
   ok_hand
   ok_man
+  ok_person
   ok_woman
   old_key
+  older_adult
+  olive
   om
   oman
   on
@@ -837,6 +1023,8 @@ emoji = %w{
   oncoming_bus
   oncoming_taxi
   one
+  one_piece_swimsuit
+  onion
   open_book
   open_file_folder
   open_hands
@@ -845,10 +1033,16 @@ emoji = %w{
   ophiuchus
   orange
   orange_book
+  orange_circle
+  orange_heart
+  orange_square
+  orangutan
   orthodox_cross
+  otter
   outbox_tray
   owl
   ox
+  oyster
   package
   page_facing_up
   page_with_curl
@@ -858,51 +1052,81 @@ emoji = %w{
   palau
   palestinian_territories
   palm_tree
+  palms_up_together
   panama
   pancakes
   panda_face
   paperclip
   paperclips
   papua_new_guinea
+  parachute
   paraguay
   parasol_on_ground
   parking
+  parrot
   part_alternation_mark
   partly_sunny
+  partying_face
   passenger_ship
   passport_control
   paw_prints
   peace_symbol
   peach
+  peacock
   peanuts
   pear
   pen
   pencil
   pencil2
   penguin
+  people_holding_hands
+  people_hugging
   performing_arts
+  person_bald
+  person_curly_hair
+  person_feeding_baby
   person_fencing
-  person_with_blond_hair
+  person_in_manual_wheelchair
+  person_in_motorized_wheelchair
+  person_in_tuxedo
+  person_red_hair
+  person_white_hair
+  person_with_probing_cane
+  person_with_turban
+  person_with_veil
   peru
+  petri_dish
   philippines
   phone
+  pi_ata
   pick
+  pickup_truck
+  pie
   pig
   pig2
   pig_nose
+  pilot
+  pinched_fingers
+  pinching_hand
   pineapple
   ping_pong
+  pirate_flag
   pisces
   pitcairn_islands
   pizza
+  placard
   place_of_worship
   plate_with_cutlery
+  pleading_face
+  plunger
   point_down
   point_left
   point_right
   point_up
   point_up_2
   poland
+  polar_bear
+  police_officer
   poodle
   poop
   popcorn
@@ -912,22 +1136,27 @@ emoji = %w{
   postbox
   potable_water
   potato
+  potted_plant
   pouch
   poultry_leg
   pound
   pregnant_woman
+  pretzel
   prince
   princess
   printer
+  probing_cane
   puerto_rico
   punch
+  purple_circle
   purple_heart
+  purple_square
   purse
   pushpin
-  put_litter_in_its_place
   qatar
   rabbit
   rabbit2
+  raccoon
   racehorse
   racing_car
   radio
@@ -938,6 +1167,7 @@ emoji = %w{
   rainbow
   rainbow_flag
   raised_back_of_hand
+  raised_eyebrow
   raised_hand
   raised_hand_with_fingers_splayed
   raised_hands
@@ -947,9 +1177,15 @@ emoji = %w{
   ram
   ramen
   rat
+  razor
+  receipt
   record_button
   red_car
   red_circle
+  red_envelope
+  red_haired_man
+  red_haired_woman
+  red_square
   registered
   relaxed
   relieved
@@ -965,9 +1201,13 @@ emoji = %w{
   rice_scene
   right_anger_bubble
   ring
+  ringed_planet
   robot
+  rock
   rocket
+  roll_of_paper
   roller_coaster
+  roller_skate
   romania
   rooster
   rose
@@ -986,32 +1226,48 @@ emoji = %w{
   running_woman
   rwanda
   sa
+  safety_pin
+  safety_vest
   sagittarius
   sailboat
   sake
+  salt
   samoa
   san_marino
   sandal
+  sandwich
   santa
   sao_tome_principe
+  sari
   sassy_man
   sassy_woman
   satellite
   satisfied
   saudi_arabia
+  sauna_man
+  sauna_person
+  sauna_woman
+  sauropod
   saxophone
+  scarf
   school
   school_satchel
+  scientist
   scorpion
   scorpius
+  scotland
+  screwdriver
   scroll
+  seal
   seat
   secret
   seedling
   selfie
   senegal
   serbia
+  service_dog
   seven
+  sewing_needle
   seychelles
   shallow_pan_of_food
   shamrock
@@ -1022,22 +1278,29 @@ emoji = %w{
   shield
   shinto_shrine
   ship
-  shipit
   shirt
   shoe
   shopping
   shopping_cart
+  shorts
   shrimp
+  shrug
+  shushing_face
   sierra_leone
   signal_strength
   singapore
+  singer
   sint_maarten
   six
   six_pointed_star
+  skateboard
   ski
   skier
+  skunk
+  sled
   slightly_smiling_face
   slot_machine
+  sloth
   slovakia
   slovenia
   small_airplane
@@ -1049,6 +1312,8 @@ emoji = %w{
   smile_cat
   smiley
   smiley_cat
+  smiling_face_with_tear
+  smiling_face_with_three_hearts
   smiling_imp
   smirk
   smirk_cat
@@ -1058,8 +1323,11 @@ emoji = %w{
   snowflake
   snowman
   snowman_with_snow
+  soap
   sob
   soccer
+  socks
+  softball
   solomon_islands
   somalia
   sound
@@ -1081,28 +1349,35 @@ emoji = %w{
   spider_web
   spiral_calendar
   spiral_notepad
+  sponge
   spoon
   squid
-  squirrel
   sri_lanka
   st_barthelemy
   st_helena
   st_kitts_nevis
   st_lucia
+  st_martin
   st_pierre_miquelon
   st_vincent_grenadines
   stadium
+  standing_man
+  standing_person
+  standing_woman
   star
   star2
   star_and_crescent
   star_of_david
+  star_struck
   stars
   station
   statue_of_liberty
   steam_locomotive
+  stethoscope
   stew
   straight_ruler
   strawberry
+  student
   studio_microphone
   stuffed_flatbread
   sudan
@@ -1115,15 +1390,24 @@ emoji = %w{
   sunny
   sunrise
   sunrise_over_mountains
+  superhero
+  superhero_man
+  superhero_woman
+  supervillain
+  supervillain_man
+  supervillain_woman
   surfer
   surfing_man
   surfing_woman
   suriname
   sushi
   suspension_railway
+  svalbard_jan_mayen
+  swan
   swaziland
   sweden
   sweet_potato
+  swim_brief
   swimmer
   swimming_man
   swimming_woman
@@ -1132,23 +1416,33 @@ emoji = %w{
   synagogue
   syria
   syringe
+  t-rex
   taco
   tada
   taiwan
   tajikistan
+  takeout_box
+  tamale
   tanabata_tree
   tangerine
   tanzania
   taurus
   taxi
   tea
+  teacher
+  teapot
+  technologist
+  teddy_bear
   telephone
   telephone_receiver
   telescope
   tennis
   tent
+  test_tube
   thailand
   thermometer
+  thong_sandal
+  thread
   three
   thumbsup
   ticket
@@ -1158,6 +1452,7 @@ emoji = %w{
   timer_clock
   timor_leste
   tipping_hand_man
+  tipping_hand_person
   tipping_hand_woman
   tm
   togo
@@ -1167,6 +1462,9 @@ emoji = %w{
   tomato
   tonga
   tongue
+  toolbox
+  tooth
+  toothbrush
   top
   tophat
   tornado
@@ -1176,13 +1474,15 @@ emoji = %w{
   train
   train2
   tram
+  transgender_flag
+  transgender_symbol
   triangular_flag_on_post
   triangular_ruler
   trident
   trinidad_tobago
+  tristan_da_cunha
   triumph
   trolleybus
-  trollface
   trophy
   tropical_drink
   tropical_fish
@@ -1220,13 +1520,18 @@ emoji = %w{
   umbrella
   unicorn
   united_arab_emirates
+  united_nations
   unlock
   up
   uruguay
   us
+  us_outlying_islands
   us_virgin_islands
   uzbekistan
   v
+  vampire
+  vampire_man
+  vampire_woman
   vanuatu
   vatican_city
   venezuela
@@ -1239,8 +1544,11 @@ emoji = %w{
   virgo
   volcano
   volleyball
+  vomiting_face
   vs
   vulcan_salute
+  waffle
+  wales
   walking
   walking_man
   walking_woman
@@ -1249,12 +1557,14 @@ emoji = %w{
   waning_gibbous_moon
   watch
   water_buffalo
+  water_polo
   watermelon
   wave
   wavy_dash
   waxing_crescent_moon
   waxing_gibbous_moon
   wc
+  weight_lifting
   weight_lifting_man
   weight_lifting_woman
   western_sahara
@@ -1265,6 +1575,9 @@ emoji = %w{
   white_circle
   white_flag
   white_flower
+  white_haired_man
+  white_haired_woman
+  white_heart
   white_large_square
   white_medium_small_square
   white_medium_square
@@ -1273,6 +1586,7 @@ emoji = %w{
   wilted_flower
   wind_chime
   wind_face
+  window
   wine_glass
   wolf
   woman
@@ -1280,11 +1594,16 @@ emoji = %w{
   woman_astronaut
   woman_cartwheeling
   woman_cook
+  woman_dancing
   woman_facepalming
   woman_factory_worker
   woman_farmer
+  woman_feeding_baby
   woman_firefighter
   woman_health_worker
+  woman_in_manual_wheelchair
+  woman_in_motorized_wheelchair
+  woman_in_tuxedo
   woman_judge
   woman_juggling
   woman_mechanic
@@ -1298,23 +1617,39 @@ emoji = %w{
   woman_student
   woman_teacher
   woman_technologist
+  woman_with_headscarf
+  woman_with_probing_cane
   woman_with_turban
+  woman_with_veil
   womans_clothes
   womans_hat
   women_wrestling
   womens
+  wood
+  woozy_face
   world_map
+  worm
   wrench
+  wrestling
   writing_hand
+  yarn
+  yawning_face
+  yellow_circle
   yellow_heart
+  yellow_square
   yemen
   yen
   yin_yang
+  yo_yo
   yum
   zambia
+  zany_face
   zap
-  zero
+  zebra
   zimbabwe
+  zombie
+  zombie_man
+  zombie_woman
 }.sample
 
 print ":#{emoji}:"

@@ -3,11 +3,14 @@ ambulance
 anger
 angry
 anguished
+arrow_down
 beginner
 bell
 bikini
+biohazard
 blush
 bug
+calendar
 chart_with_upwards_trend
 clock1
 clock10
@@ -57,6 +60,7 @@ disappointed_relieved
 dizzy
 dizzy_face
 do_not_litter
+drop_of_blood
 end
 expressionless
 face_with_head_bandage
@@ -70,6 +74,13 @@ fist_right
 flushed
 fog
 foggy
+frowning
+frowning_face
+frowning_man
+frowning_person
+frowning_woman
+fu
+funeral_urn
 godmode
 grey_question
 grimacing
@@ -128,11 +139,13 @@ policeman
 policewoman
 pout
 pouting_cat
+pouting_face
 pouting_man
 pouting_woman
 pray
 prayer_beads
 previous_track_button
+put_litter_in_its_place
 question
 rage
 rage1
@@ -190,5 +203,6 @@ wheelchair
 wink
 worried
 x
+zero
 zipper_mouth_face
 zzz
