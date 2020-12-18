@@ -5,7 +5,9 @@ url = "https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json"
 
 response = JSON.parse(Net::HTTP.get(URI(url)))
 
-all_emoji = response.flat_map { |e| e["aliases"] }.uniq.sort
+not_flags = response.reject { |e| e["category"] == "Flags" }
+
+all_emoji = not_flags.flat_map { |e| e["aliases"] }.uniq.sort
 
 denied_by_us = File.read("denylist.txt").split("\n")
 
@@ -22,7 +24,3 @@ File.write("lgtm.rb", <<~RUBY)
 
   print ":\#{emoji}:"
 RUBY
-
-emoji_we_care_about.each do |emoji|
-  puts "#{emoji} - :#{emoji}:"
-end
