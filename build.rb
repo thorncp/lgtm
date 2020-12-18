@@ -7,9 +7,9 @@ response = JSON.parse(Net::HTTP.get(URI(url)))
 
 all_emoji = response.flat_map { |e| e["aliases"] }.uniq.sort
 
-blacklisted_by_us = File.read("blacklist.txt").split("\n")
+denied_by_us = File.read("denylist.txt").split("\n")
 
-emoji_we_care_about = all_emoji - blacklisted_by_us
+emoji_we_care_about = all_emoji - denied_by_us
 
 formatted = emoji_we_care_about.map { |e| "  #{e}" }.join("\n")
 
