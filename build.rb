@@ -1,11 +1,11 @@
 require "fileutils"
-require "net/http"
 require "json"
 
 require "bundler/inline"
 
 gemfile do
   source "https://rubygems.org"
+  gem "http", "4.4.1"
   gem "rubyzip", require: "zip"
 end
 
@@ -13,7 +13,7 @@ VERSION = "1.3.1"
 
 url = "https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json"
 
-response = JSON.parse(Net::HTTP.get(URI(url)))
+response = JSON.parse(HTTP.get(url))
 
 not_flags = response.reject { |e| e["category"] == "Flags" }
 
