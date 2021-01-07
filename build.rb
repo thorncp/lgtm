@@ -1,5 +1,9 @@
+require "fileutils"
 require "net/http"
 require "json"
+require "zip"
+
+VERSION = "1.3.0"
 
 url = "https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json"
 
@@ -15,8 +19,9 @@ emoji_we_care_about = all_emoji - denied_by_us
 
 formatted = emoji_we_care_about.map { |e| "  #{e}" }.join("\n")
 
-File.write("lgtm.rb", <<~RUBY)
-  # This file is generated. See build.rb
+script = <<~RUBY
+  # This script is generated. See build.rb at https://github.com/thorncp/lgtm
+  # rather than updating here.
 
   emoji = %w{
   #{formatted}
@@ -24,3 +29,21 @@ File.write("lgtm.rb", <<~RUBY)
 
   print ":\#{emoji}:"
 RUBY
+
+template = File.read("template.plist")
+
+plist = template
+  .sub("$VERSION$", VERSION)
+  .sub("$SCRIPT$", script)
+
+File.open("workflow/info.plist", "w") do |f|
+  f.write(plist)
+end
+
+FileUtils.rm_rf("lgtm.alfredworkflow")
+
+Zip::File.open("lgtm.alfredworkflow", Zip::File::CREATE) do |zip|
+  Dir.children("workflow").each do |file|
+    zip.add(file, "workflow/#{file}")
+  end
+end
