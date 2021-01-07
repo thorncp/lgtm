@@ -1,7 +1,13 @@
 require "fileutils"
 require "net/http"
 require "json"
-require "zip"
+
+require "bundler/inline"
+
+gemfile do
+  source "https://rubygems.org"
+  gem "rubyzip", require: "zip"
+end
 
 VERSION = "1.3.1"
 
