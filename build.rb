@@ -3,7 +3,7 @@ require "net/http"
 require "json"
 require "zip"
 
-VERSION = "1.3.0"
+VERSION = "1.3.1"
 
 url = "https://raw.githubusercontent.com/github/gemoji/master/db/emoji.json"
 
