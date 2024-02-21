@@ -191,6 +191,7 @@ thought_balloon
 thumbsdown
 tired_face
 traffic_light
+triumph
 unamused
 underage
 upside_down_face
