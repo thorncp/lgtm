@@ -67,6 +67,7 @@ face_with_head_bandage
 face_with_thermometer
 facepunch
 fearful
+female_sign
 fist
 fist_left
 fist_oncoming
@@ -97,6 +98,7 @@ kissing_cat
 kissing_closed_eyes
 kissing_heart
 kissing_smiling_eyes
+knife
 lock
 lock_with_ink_pen
 loop
@@ -104,6 +106,8 @@ loud_sound
 loudspeaker
 love_hotel
 love_letter
+lying_face
+male_sign
 massage
 massage_man
 massage_woman
@@ -112,6 +116,7 @@ middle_finger
 mute
 neckbeard
 negative_squared_cross_mark
+neutral_face
 no_bell
 no_bicycles
 no_entry
@@ -165,17 +170,20 @@ scream_cat
 see_no_evil
 shit
 shower
+shrug
 skull
 skull_and_crossbones
 sleeping
 sleeping_bed
 sleepy
 slightly_frowning_face
+smiling_face_with_tear
 smoking
 snail
 soon
 sos
 speak_no_evil
+spider_web
 stop_button
 stop_sign
 stopwatch
@@ -201,6 +209,7 @@ wastebasket
 weary
 wedding
 wheelchair
+white_small_square
 wink
 worried
 x
