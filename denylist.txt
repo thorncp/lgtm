@@ -117,6 +117,8 @@ mute
 neckbeard
 negative_squared_cross_mark
 neutral_face
+ng_man
+ng_woman
 no_bell
 no_bicycles
 no_entry
