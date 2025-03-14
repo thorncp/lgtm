@@ -21,6 +21,10 @@ all_emoji = not_flags.flat_map { |e| e["aliases"] }.uniq.sort
 
 denied_by_us = File.read("denylist.txt").split("\n")
 
+File.open("all_emoji.txt", "w") do |file|
+  all_emoji.each { |e| file.puts(e) }
+end
+
 emoji_we_care_about = all_emoji - denied_by_us
 
 formatted = emoji_we_care_about.map { |e| "  #{e}" }.join("\n")
