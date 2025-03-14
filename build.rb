@@ -5,7 +5,7 @@ require "bundler/inline"
 
 gemfile do
   source "https://rubygems.org"
-  gem "http", "4.4.1"
+  gem "http"
   gem "rubyzip", require: "zip"
 end
 
